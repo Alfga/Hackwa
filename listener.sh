@@ -2,12 +2,12 @@
 clear
 echo "
 <-- IndoSec -->
-####################
-# Whatsapp Exploit # By ./C3W3KBerB4T4n9
-#   Log Listener   # ceweberbatang59@gmail.com
-####################
+======================
+¦¦ WhatsApp Exploit ¦¦
+¦¦   Log Listener   ¦¦
+======================
 
-Copyright (c) 2018 ceweberbatang ganz";
+
 echo "";
 read -p "Server   : http://" server
 read -p "Log File : " file

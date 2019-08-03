@@ -1,13 +1,13 @@
 #!/bin/bash
 clear
-echo ";
+echo "
 <-- IndoSec -->
 ======================
 ¦¦   Whatsapp Code  ¦¦
 ¦¦     Exploiter    ¦¦
 ======================
 
-
+×××××××××××××××××××××××××××;
 echo "";
 read -p "Your Number(+62xxxx)   => " nomer;
 read -p "Target Number(+62xxxx) => " target;

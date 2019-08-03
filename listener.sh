@@ -7,7 +7,7 @@ echo "
 ¦¦   Log Listener   ¦¦
 ======================
 
-
+×××××××××××××××××××××××××××;
 echo "";
 read -p "Server   : http://" server
 read -p "Log File : " file
